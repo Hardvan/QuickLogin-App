@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/abhaya_libre</item>
+        <item>@font/adamina</item>
+        <item>@font/alata</item>
+        <item>@font/aleo_light</item>
+        <item>@font/bai_jamjuree_extralight</item>
+        <item>@font/baskervville</item>
+    </array>
+</resources>
